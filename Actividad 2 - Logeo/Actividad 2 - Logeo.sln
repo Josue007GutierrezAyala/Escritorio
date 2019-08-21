@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 3", "Actividad 3\Actividad 3.csproj", "{6B7D4AD8-CA91-4DFB-BAD7-C0F36AC0E59D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 2 - Logeo", "Actividad 2 - Logeo\Actividad 2 - Logeo.csproj", "{DA5E7ECA-002B-44C6-8D81-08C77869FA56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6B7D4AD8-CA91-4DFB-BAD7-C0F36AC0E59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B7D4AD8-CA91-4DFB-BAD7-C0F36AC0E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B7D4AD8-CA91-4DFB-BAD7-C0F36AC0E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B7D4AD8-CA91-4DFB-BAD7-C0F36AC0E59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5E7ECA-002B-44C6-8D81-08C77869FA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5E7ECA-002B-44C6-8D81-08C77869FA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5E7ECA-002B-44C6-8D81-08C77869FA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5E7ECA-002B-44C6-8D81-08C77869FA56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C3C78F72-A632-451D-9808-A757E99F8AC6}
+		SolutionGuid = {E55E61FD-706C-4195-9690-44582004600C}
 	EndGlobalSection
 EndGlobal
